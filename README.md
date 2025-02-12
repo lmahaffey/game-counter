@@ -2,6 +2,9 @@
 
 This is a simple basketball scoreboard application that allows users to track scores for two teams: **Home** and **Guest**. The scores update dynamically when users click the +1, +2, or +3 buttons. The team with the higher score is highlighted in green, while the other team is styled in red.
 
+## Live Demo
+You can try the scoreboard here:  
+[Scoreboard Counter Live](https://loquacious-bombolone-772d4b.netlify.app/)
 ## Features
 - Home and Guest score tracking
 - Clickable buttons to increase scores by 1, 2, or 3 points
