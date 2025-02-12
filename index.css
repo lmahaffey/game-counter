@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width:360px;
+    background-color: rgb(27, 27, 86);
+    padding:5px 40px 30px 40px;
+    margin:auto auto;
+    border-radius: 15px;
+}
+
+.score{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color:rgb(222, 64, 90);
+    font-size: 90px;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    width:130px;
+}
+
+.title{
+    color:white;
+    font-size: 40px;
+   text-align: center;
+    font-family: "Geist", serif;
+
+    font-weight: 600;
+}
+
+.info{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;;
+}
+
+.increase-score{
+    display:flex;
+
+}
+
+
+.increase-score p{
+ text-align: center;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+color:rgb(225, 218, 218);
+border: 1px solid white;
+margin:10px 4px;
+padding:10px;
+font-size: 15px;
+cursor:pointer;
+}
